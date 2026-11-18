@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Counter" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#5121E8</item>
+        <item name="colorPrimaryDark">#3615B0</item>
+        <item name="colorAccent">#5121E8</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
